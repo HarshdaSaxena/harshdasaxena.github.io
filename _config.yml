@@ -21,10 +21,12 @@ author: Harshda Saxena
 
 navbar-links:
   About Me: "aboutme"
-  Extracurriculars: "extracurrics"
-  Projects: "projects"
-  Articles: "articles"
   CV: "/assets/PS01.pdf"
+  Projects: "projects"
+  Academics: "acads"
+  Extracurriculars: "extracurrics"
+  
+  
 
 ################
 # --- Logo --- #
@@ -49,7 +51,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "xyz@gmail.com"
+  email: "harshda.saxena@iitb.ac.in"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   github: HarshdaSaxena
@@ -62,7 +64,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  # instagram: advaitmehla
+  instagram: harshda_saxena
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
