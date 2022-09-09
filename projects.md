@@ -3,8 +3,6 @@ layout: page
 title: Projects
 subtitle: 
 ---
-Throughout my undergraduate, I have been a part of various Projects and Workshops under Professors, student run clubs, and programmes.
-# Main Research Projects
 
 ## Non-Linear Cosmic Structure Formation 
 *with Prof Matthias Bartelmann, Heidelberg University*
