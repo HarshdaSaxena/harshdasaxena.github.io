@@ -22,9 +22,15 @@ author: Harshda Saxena
 navbar-links:
   About Me: "aboutme"
   CV: "/assets/CV_Short.pdf"
-  Projects: "projects"
+  Projects: 
+    - Research: "projects"
+    - Course:
+    - Student Projects:
   Academics: "acads"
-  Extracurriculars: "extracurrics"
+  Extracurriculars: 
+    - Volunteer work: "extracurrics"
+    - Sports:
+    - NCC: 
   
   
 
