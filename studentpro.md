@@ -7,6 +7,7 @@ subtitle:
 ##  Cosmology and Dark Matter
 
 *Summer of Science, Maths and Physics Club, IITB*
+
 I studied special relativity, with emphasis on its tensorial analysis, the mathematical foundations of general relativity, Einstein tensors, Bianchi identities and the field equations from A First Course in General Relativity by Bernard Schutz. In addition, I studied applications of general relativity such as the production and detection of gravitational waves, Schwarzschild and Kerr Blackholes and the metric around relativistic stars. 
 
 ### Report Link
@@ -16,6 +17,7 @@ The report is [here](https://github.com/HarshdaSaxena/Reports/blob/master/SoS_Re
 ## Algebraic Topology
 
 *Summer of Science, Maths and Physics Club, IITB*
+
 I studied Abstract Algebra by Dummit & Foote for an introduction to groups, subgroups, quotient groups and group actions. I then applied the group-theoretic structure to the study of topological spaces, specifically to understand Fundamental Groups, Separation theorems and Seifert-van Kampen theorem from Topology by Munkres.
 
 ### Report Link
