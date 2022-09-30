@@ -1,6 +1,12 @@
 ---
 layout: page
-title: Extracurriculars
+title: Volunteer work
 subtitle: 
 ---
-stuff.
+I started my volunteer work as President of the Interact Club at my school, Rajhans Vidyalaya. This was under the Rotary club Mumbai, and we helped organize multiple activities for the underpriviliged, such as sports day for children, collection of donations for orphanages, and others.
+
+During the lockdown of COVID-19, I was able to join a IITB-NIUS initiative, Mission Aahan Vahan. I worked in databasing, and assisted and coordinated with over 2700 migrant workers during the COVID-19 pandemic, to help them reach thier home states during the migrant crisis. We additionally petitioned the government to start the concept of Shramik trains, special trains for migrant workers to be able to reach their homes. After this was implemented, I also helped the workers to fill the necessary government forms to aid this, and coordinated with them regarding the necessary documents. I had the amazing opportunity to inform them about their tickets as well, and the happiness in their voice was one of the most cherished moments in this experience.
+
+After this, I joined as a core member in an NGO, [URHope Foodbank](https://india.foodbank.co/). In the last 2 years, we have distributed over 9 Lakh (0.9 million) cooked meals and dry ration kits to the helpseekers. Our main centres for distribution are Delhi, Mumbai, Bihar, and some other places, as based on the need. We have extensively helped in flood relief in Bihar and Assam, by providing emergency food kits and relief. We have also helped in blanket distribution to needy people during the cold harsh winters of Delhi. Ration kit distribution has benefited multiple groups of people and institutions, as based on need. We have actively supplied the Sambhav Institution of the Blind with their ration requirements, multiple orphanages, and marginalized groups such as transwomen. We have also distributed stationary, school materials, sanitary napkins, and whiteboards to multiple schools teaching marginalized children. With other NGOs, we have set up community kitchens, and trained the differently abled in developing their cooking and other skill sets to make them independent. We also set up various covid resources, obtained medicines, oxygen tanks, and other necessities during the peak fo the COVID pandemic.
+
+In addition, I am an active volunteer at SAATHI- The LGBTQ+ resource group for IIT Bombay, and have helped in ideating and coordiating multiple events in the campus to raise awareness about various issues faced by the community. 
