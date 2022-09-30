@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Projects
+title: Courses
 subtitle: 
 ---
 
